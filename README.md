@@ -6,7 +6,7 @@
 ✍️ &nbsp;In my free time, I like to watch anime and play videogames.\
 🍄 &nbsp;I believe in the Teemo supremacy.
 
-<img alt="Night Coding" src="https://thumbs.gfycat.com/ExcellentSameBurro-size_restricted.gif" align="center"/>
+<img alt="Depressed Teemo" src="https://thumbs.gfycat.com/ExcellentSameBurro-size_restricted.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
