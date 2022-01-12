@@ -4,7 +4,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying ASIX with cibersecuity profil on IES Ebre .\
 ✍️ &nbsp;In my free time, I like to watch anime and play videogames.\
-🍄 &nbsp;I believe in the Teemo supremacy.\
+🍄 &nbsp;I believe in the Teemo supremacy.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
