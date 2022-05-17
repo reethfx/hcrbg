@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying ASIX with cibersecuity profil on IES Ebre .\
+🎓 &nbsp;I'm currently studying ASIX with cibersecuity profile on IES Ebre .\
 ✍️ &nbsp;In my free time, I like to watch anime and play videogames.\
 🍄 &nbsp;I believe in the Teemo supremacy.
 
