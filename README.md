@@ -12,9 +12,7 @@
 
 - Fullstack developer learner
 - Playing videogames on spare time
-- Currently learning Web Development on school
-- Currently studying cybersecurity
-
+- Currently learning Web Development on school and Cybersecurity
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -38,7 +36,12 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular%20-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
+	
+- **Frameworks**:
+	
+   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Cloud Hosting**:
 
