@@ -24,7 +24,7 @@
 
 - **Languages**:
   
-    ![Java](https://img.shields.io/badge/Java%20-FF9E0F.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![PHP](https://img.shields.io/badge/php%20-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
