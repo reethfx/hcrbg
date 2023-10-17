@@ -6,13 +6,11 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.tenor.com/kqlEI-zeRL4AAAAC/pixelart.gif" width = 250px></picture>
-
 <br>
 
-- Fullstack developer learner
-- Playing videogames on spare time
-- Ethical hacker and cybersecurity enthuiast
+- Ethical Hacker
+- Red Team
+- Fullstack developer rookie
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><br><br>
