@@ -85,5 +85,5 @@
 <br>
 
 <p align="center">
-<img align=center src="https://github-readme-stats.vercel.app/api?username=hcrbg&show_icons=true&theme=radical)"> </img>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=reethfx&show_icons=true&theme=radical"> </img>
 </p>
