@@ -8,9 +8,10 @@
 
 <br>
 
-- Ethical Hacker
-- Red Team
-- Fullstack developer rookie
+- Ethical hacker.
+- Red team.
+- Fullstack dev learner.
+- Anime and videogames lover.
 <br><br>
 
 <img src="https://i.redd.it/j7xh04ggrwh91.gif"><br><br>
