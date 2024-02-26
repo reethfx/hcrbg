@@ -24,7 +24,6 @@
 - **Languages**:
   
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php%20-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     
@@ -38,8 +37,6 @@
    ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 	
 - **Frameworks**:
-	
-   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/Springboot-0.svg?style=for-the-badge&logo=springboot&logoColor=white)
