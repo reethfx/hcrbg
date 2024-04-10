@@ -27,13 +27,14 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin%20-ac0ea0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/Flutter%20-2ed2db.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-12047d.svg?style=for-the-badge&logo=Dart&logoColor=white)
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233823d9.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Angular](https://img.shields.io/badge/Angular%20-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 	
@@ -42,7 +43,9 @@
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![SpringBoot](https://img.shields.io/badge/Springboot-0.svg?style=for-the-badge&logo=springboot&logoColor=white)
-   ![NestJS](https://img.shields.io/badge/NestJS-db2e2e.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+   ![NestJS](https://img.shields.io/badge/NestJS-db2e2e.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+   ![Flutter](https://img.shields.io/badge/Flutter%20-2ed2db.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
     
 - **Softwares and Tools**:
 
