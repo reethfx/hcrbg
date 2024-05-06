@@ -61,6 +61,7 @@
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+    ![NixOs](https://img.shields.io/badge/NixOS-fa3cf7.svg?style=for-the-badge&logo=nixos&logoColor=white)
   
  - **DataBases**:
   
