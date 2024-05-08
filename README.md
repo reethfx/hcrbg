@@ -10,7 +10,7 @@
 
 - Ethical hacker.
 - Red team.
-- Fullstack dev learner.
+- Node fullstack developer.
 - Anime and videogames lover.
 <br><br>
 
