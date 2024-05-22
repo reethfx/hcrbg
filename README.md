@@ -88,5 +88,5 @@
 <br>
 
 <p align="center">
-<img align=center src="https://github-readme-stats.vercel.app/api?username=reethfx&show_icons=true&theme=radical"> </img>
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethfx&layout=compact&theme=radical"> </img>
 </p>
