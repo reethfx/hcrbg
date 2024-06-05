@@ -29,13 +29,13 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin%20-ac0ea0.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-12047d.svg?style=for-the-badge&logo=Dart&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233823d9.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233823d9.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Angular](https://img.shields.io/badge/Angular%20-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 	
