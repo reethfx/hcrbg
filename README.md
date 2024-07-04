@@ -83,7 +83,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
-
 <p align="center">
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethfx&hide_progress=true&show_icons=true&theme=radical"> </img>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reethfx&hide_progress=true&show_icons=true&theme=radical">
 </p>
+<p></p>
+
