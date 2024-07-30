@@ -1,5 +1,4 @@
-**About me**
-<hr>
+## <b>About me</b>
 <br>
 
 - Ethical hacker.
