@@ -39,18 +39,16 @@
     
 - **Softwares and Tools**:
 
+    ![Nvim](https://img.shields.io/badge/nvim-31de5fsvg?style=for-the-badge&logo=neovim&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Nvim](https://img.shields.io/badge/nvim-31de5fsvg?style=for-the-badge&logo=neovim&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
   
 - **Operative Systems**:
   
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+    ![NixOS](https://img.shields.io/badge/NixOS-fa3cf7.svg?style=for-the-badge&logo=nixos&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-    ![NixOs](https://img.shields.io/badge/NixOS-fa3cf7.svg?style=for-the-badge&logo=nixos&logoColor=white)
   
  - **DataBases**:
   
