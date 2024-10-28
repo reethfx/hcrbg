@@ -1,10 +1,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" /> <b>About me</b>
 <br>
 
-- Ethical hacker.
-- Red team.
+- Red team hacker.
 - Node and Rust fullstack developer.
-- Anime and videogames lover.
+- Manga and videogames lover.
 <br><br>
 
 <img src="https://i.redd.it/j7xh04ggrwh91.gif"><br><br>
