@@ -3,7 +3,7 @@
 
 - Ethical hacker.
 - Red team.
-- Node fullstack developer.
+- Node and Rust fullstack developer.
 - Anime and videogames lover.
 <br><br>
 
