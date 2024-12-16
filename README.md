@@ -31,6 +31,7 @@
 - **Frameworks**:
   
    ![Angular](https://img.shields.io/badge/Angular%20-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![Astro](https://img.shields.io/badge/Astro-8142f5.svg?style=for-the-badge&logo=astro&logoColor=white)
    ![NestJS](https://img.shields.io/badge/NestJS-db2e2e.svg?style=for-the-badge&logo=nestjs&logoColor=white)
    ![ExpressJS](https://img.shields.io/badge/express-%23d1b630.svg?style=for-the-badge&logo=express&logoColor=white)
 
